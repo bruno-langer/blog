@@ -7,8 +7,8 @@
     
     <description>This website is a virtual proof that I&apos;m awesome</description>
     
-    <link>https://bruno.langer.github.io//blog/</link>
-    <atom:link href="https://bruno.langer.github.io//blog/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://bruno-langer.github.io/blog/</link>
+    <atom:link href="https://bruno-langer.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
@@ -21,8 +21,8 @@
           This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
         </description>
         <pubDate>Fri, 28 Feb 2020 00:00:00 -0300</pubDate>
-        <link>https://bruno.langer.github.io//blog/2020-02-28-sample-markdown/</link>
-        <guid isPermaLink="true">https://bruno.langer.github.io//blog/2020-02-28-sample-markdown/</guid>
+        <link>https://bruno-langer.github.io/blog/2020-02-28-sample-markdown/</link>
+        <guid isPermaLink="true">https://bruno-langer.github.io/blog/2020-02-28-sample-markdown/</guid>
       </item>
     
   </channel>

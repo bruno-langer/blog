@@ -1,1 +1,1 @@
-Sitemap: https://bruno.langer.github.io//blog/sitemap.xml
+Sitemap: https://bruno-langer.github.io/blog/sitemap.xml
